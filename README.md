@@ -1,2 +1,4 @@
-# Brackube
-further developing brackeys' Cubethon game, using knowledge from brackey's block dodge game tutorial, as well as my own amazing knowledge.
+# For Mac
+To move, use A (left) and D (right).
+
+Followed brackeys' Cubethon game. I plan on developing this more, implementing my own approach/knowledge.
